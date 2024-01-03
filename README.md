@@ -1,5 +1,5 @@
 # HospitalityDomain
-Data Analysis of Hotel bookings located in different cities.
+Data Analysis of Hotel chain bookings located in different cities.
 
 ## Table of Contents
 
